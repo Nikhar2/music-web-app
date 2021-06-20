@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
- nikhar: linux18
+ nikhar
 
 steps:
 - task: Maven@3
