@@ -6,7 +6,8 @@
 trigger:
 - master
 
-pool: nikhar
+pool:
+ nikhar: linux18
 
 steps:
 - task: Maven@3
